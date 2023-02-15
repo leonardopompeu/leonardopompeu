@@ -5,8 +5,8 @@
 # Português <h1>
 - Principais linguagens de programação: Python e R.
 - Conhecimentos em MySQL e MongoDB (Melhor em MySQL).
-- Outros conhecimentos: Spark, AWS.
-- Dê uma olhada nos meu respositórios para conhecer um pouco do meu trabalho (Prometo que vai estar muito bem explicado 👀).
+- Outros conhecimentos: AWS.
+- Dê uma olhada nos meu respositórios para conhecer um pouco do meu trabalho.
 - Estudando deep learning e redes neurais.
 - Atualmente estou procurando um trabalho na área de ciência de dados.
 - Estou finalizando o curso de Eng. da Computação pela UEMG-Divinópolis (data esperada: 07/2023).
@@ -14,8 +14,8 @@
  # English <h1>
 - Main languages: Python and R.
 - MySQL and MongoDB. ( preferable MySQL ).
-- Other knowledges: Spark, AWS.
-- Please, take a look on my repositories (I promise it will be documented and explained 👀)
+- Other knowledges: AWS.
+- Please, take a look on my repositories.
 - Studying deep learning and neural networks.
 - Seeking a job in data science.
 - One semester left to finish my degree in Computer Engineering in UEMG-Divinópolis (expected at: 07/2023).
