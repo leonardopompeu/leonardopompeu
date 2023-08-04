@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f0299&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0eebd5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5f0299&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Leo+Pompeu;Seja+bem+vindo+ao+meu+perfil;Atualmente+estou+estudando+Ciência+de+Dados;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0eebd5&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Leo+Pompeu;Seja+bem+vindo+ao+meu+perfil;Atualmente+estou+estudando+Ciência+de+Dados;+:%29)](https://git.io/typing-svg)
 
 # Português <h1>
 - Principais linguagens de programação: Python e R.
@@ -24,4 +24,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=leonardopompeu&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f0299&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0eebd5&height=120&section=footer"/>
