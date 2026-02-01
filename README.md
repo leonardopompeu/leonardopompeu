@@ -1,7 +1,3 @@
-<!-- ================================================== -->
-<!--              GITHUB PROFILE README                 -->
-<!-- ================================================== -->
-
 <div align="center">
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2h5ODcweHBtMGR6ajRqazZhOGtvb203NmJmYml3ejNxeDJ3cGo1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sLkIthus9lEwoe7PRx/giphy.gif" width="140"/>
